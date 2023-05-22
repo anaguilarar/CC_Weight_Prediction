@@ -18,8 +18,7 @@ We provide google colabs to facilitate the understanding and implementation of t
 
 To get started, please refer to the following notebooks:
 
-
-
+- Individual Plant Detection: This [notebook](https://colab.research.google.com/github/anaguilarar/CC_Weight_Prediction/blob/main/1_Individual_plant_detection_YOLO_training.ipynb#scrollTo=E6HJhgJy-8M1) covers the steps used to detect individual Chinese cabbage plants in the field using UAV-based data and YOLO model.
 
 
 
